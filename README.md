@@ -20,7 +20,7 @@ This Tableau dashboard provides a comprehensive visual analysis of the SuperStor
 
 ## 🚀 How to Access
 
-You can explore the interactive dashboard [on Tableau Public]((https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
+You can explore the interactive dashboard on Tableau Public: (https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
 
 ---
 
