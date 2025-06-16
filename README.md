@@ -6,7 +6,7 @@ This Tableau dashboard provides a comprehensive visual analysis of the SuperStor
 
 ## 📸 Preview
 
-View on Tableau Public (https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View on Tableau Public](https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Dashboard Features
 
