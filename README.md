@@ -2,6 +2,8 @@
 
 This Tableau dashboard provides a comprehensive visual analysis of the SuperStore dataset. It focuses on uncovering insights related to sales, profit, orders, and shipping trends across different customer segments and geographical regions.
 
+![image](https://github.com/user-attachments/assets/77199faf-5c79-4d74-b005-17c0f4db76f5)
+
 ## 📸 Preview
 
 (https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
